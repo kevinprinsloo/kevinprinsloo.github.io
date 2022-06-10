@@ -1,5 +1,6 @@
 README holder
 
 
-https://github.com/kevinprinsloo/kevinprinsloo.github.io.git
+
+https://kevinprinsloo.github.io/
 
