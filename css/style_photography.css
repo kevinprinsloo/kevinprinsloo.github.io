@@ -434,7 +434,7 @@ button:focus {
 
 .infoList {
   position: absolute;
-  width: calc(7 * var(--card-width));
+  width: calc(4 * var(--card-width));
   height: var(--card-height);
   pointer-events: none;
 }
