@@ -1,8 +1,0 @@
-/*
-Social media icons by Kieran Hunter
-
-contact me for any questions
-
-kieranhunter.co.uk
-
-*/
